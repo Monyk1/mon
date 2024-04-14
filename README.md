@@ -26,8 +26,7 @@ Lower carbon footprint: Bamboo production has a lower carbon footprint than plas
 Promote sustainability: Bamboo cultivation can contribute to reforestation and sustainable land management, counteracting deforestation and biodiversity loss.
 Create economic opportunities: The bamboo industry can generate jobs and economic development opportunities in rural communities, fostering sustainable growth.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+
 https://th.bing.com/th/id/OIP.ZL6VWk--xJe-GqCsw-gp_wHaHa?rs=1&pid=ImgDetMain
 
 If you need to resize images, you have to use an HTML tag, like this:
